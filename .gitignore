@@ -1,0 +1,8 @@
+*.pth
+.ipynb_checkpoints/
+__pycache__/
+*.ipynb
+log/
+trash
+outputs/
+experiment/
